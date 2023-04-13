@@ -11,3 +11,5 @@ redirect_from:
 
 Site in progress...
 ======
+
+For now, you can find my ORCID and Google Scholar in the left side of the screen.
