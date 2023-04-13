@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vicente J. Ontiveros, PhD"
+  name             : "Vicente J. Ontiveros"
   avatar           : "profile.png"
-  bio              : "Computational ecologist"
-  location         : "Beer Sheva, Israel"
+  bio              : "Computational ecologist, PhD. Interested in community ecology, disease ecology, and dispersal ecology. Currently visiting the Ecological Complexity Lab at Ben-Gurion University of the Negev, thanks to a Margarita Salas Postdoctoral Fellowship from the University of Girona."
+  location         : "BGU, Israel"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Rby1UPsAAAAJ"
