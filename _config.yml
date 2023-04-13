@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vicente J. Ontiveros"
+  name             : "Vicente J. Ontiveros, PhD"
   avatar           : "profile.png"
-  bio              : "Computational ecologist, PhD"
+  bio              : "Computational ecologist"
   location         : "Beer Sheva, Israel"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
